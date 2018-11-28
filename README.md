@@ -1,1 +1,1 @@
-# ncreset 17
+# icreset 17
